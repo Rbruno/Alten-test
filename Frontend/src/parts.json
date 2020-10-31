@@ -1,0 +1,403 @@
+  [{
+    "Key": 0,
+    "name":"Seam",
+    "type":2,
+    "controls": [
+        {
+            "keyControl": 0,
+            "X": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 1
+            },
+            "Y": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 0
+            },
+            "Z": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 2
+            },
+            "Diameter": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 1
+            }
+
+        },
+        {
+            "keyControl": 1,
+            "X": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 1
+            },
+            "Y": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 0
+            },
+            "Z": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 2
+            },
+            "Diameter": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 1
+            }
+
+        },
+        {
+            "keyControl": 2,
+            "X": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 1
+            },
+            "Y": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 0
+            },
+            "Z": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 2
+            },
+            "Diameter": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 1
+            }
+
+        },
+        {
+            "keyControl": 3,
+            "X": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 1
+            },
+            "Y": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 0
+            },
+            "Z": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 2
+            },
+            "Diameter": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 1
+            }
+
+        },
+        {
+            "keyControl": 4,
+            "X": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 1
+            },
+            "Y": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 0
+            },
+            "Z": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 2
+            },
+            "Diameter": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 1
+            }
+
+        },
+        {
+            "keyControl": 5,
+            "X": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 1
+            },
+            "Y": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 0
+            },
+            "Z": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 2
+            },
+            "Diameter": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 1
+            }
+
+        },
+        {
+            "keyControl": 6,
+            "X": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 1
+            },
+            "Y": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 0
+            },
+            "Z": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 2
+            },
+            "Diameter": {
+                "dev": 0,
+                "devOut": 0,
+                "state": 1
+            }
+
+        }
+    ]
+},
+    {
+        "Key": 1,
+        "name":"Slot",
+        "type":1,
+        "controls": [
+            {
+                "keyControl": 0,
+                "X": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 1
+                },
+                "Y": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 0
+                },
+                "Z": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 2
+                },
+                "Diameter": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 1
+                }
+
+            }
+        ]
+    },
+    {
+        "Key": 2,
+        "name":"Hole",
+        "type":0,
+        "controls": [
+            {
+                "keyControl": 0,
+                "X": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 1
+                },
+                "Y": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 0
+                },
+                "Z": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 2
+                },
+                "Diameter": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 1
+                }
+
+            }
+        ]
+    },
+    {
+        "Key": 3,
+        "name":"Seam",
+        "type":1,
+        "controls": [
+            {
+                "keyControl": 0,
+                "X": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 1
+                },
+                "Y": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 0
+                },
+                "Z": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 2
+                },
+                "Diameter": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 1
+                }
+
+            }
+        ]
+    },
+    {
+        "Key": 4,
+        "name":"Hole",
+        "type":2,
+        "controls": [
+            {
+                "keyControl": 0,
+                "X": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 1
+                },
+                "Y": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 0
+                },
+                "Z": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 2
+                },
+                "Diameter": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 1
+                }
+
+            }
+        ]
+    },
+    {
+        "Key": 5,
+        "name":"Seam",
+        "type":3,
+        "controls": [
+            {
+                "keyControl": 0,
+                "X": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 1
+                },
+                "Y": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 0
+                },
+                "Z": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 2
+                },
+                "Diameter": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 1
+                }
+
+            },
+            {
+                "keyControl": 1,
+                "X": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 1
+                },
+                "Y": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 0
+                },
+                "Z": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 2
+                },
+                "Diameter": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 1
+                }
+
+            },
+            {
+                "keyControl": 2,
+                "X": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 1
+                },
+                "Y": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 0
+                },
+                "Z": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 2
+                },
+                "Diameter": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 1
+                }
+
+            },
+            {
+                "keyControl": 3,
+                "X": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 1
+                },
+                "Y": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 0
+                },
+                "Z": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 2
+                },
+                "Diameter": {
+                    "dev": 0,
+                    "devOut": 0,
+                    "state": 1
+                }
+
+            }
+        ]
+    }
+  ]
